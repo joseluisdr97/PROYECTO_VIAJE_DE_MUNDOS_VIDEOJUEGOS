@@ -1,0 +1,7868 @@
+fileFormatVersion: 2
+guid: d6660868e9df25b4a9179263b7f06e80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2409430140594721867
+    second: EnemigosMario_0
+  - first:
+      213: 8651971963247927071
+    second: EnemigosMario_1
+  - first:
+      213: -7805486209990630605
+    second: EnemigosMario_2
+  - first:
+      213: -4626481785048412788
+    second: EnemigosMario_3
+  - first:
+      213: -6606608536406679111
+    second: EnemigosMario_4
+  - first:
+      213: -6058813333216006081
+    second: EnemigosMario_5
+  - first:
+      213: 6718875952425339809
+    second: EnemigosMario_6
+  - first:
+      213: -1332742161835950196
+    second: EnemigosMario_7
+  - first:
+      213: -7112528731030179472
+    second: EnemigosMario_8
+  - first:
+      213: 7744676945064183950
+    second: EnemigosMario_9
+  - first:
+      213: 4772350592668838797
+    second: EnemigosMario_10
+  - first:
+      213: -8026461942876453160
+    second: EnemigosMario_11
+  - first:
+      213: -507817882044442582
+    second: EnemigosMario_12
+  - first:
+      213: -7608157621529789618
+    second: EnemigosMario_13
+  - first:
+      213: -7802139468215734458
+    second: EnemigosMario_14
+  - first:
+      213: -3881282689639858782
+    second: EnemigosMario_15
+  - first:
+      213: -1974742238802915982
+    second: EnemigosMario_16
+  - first:
+      213: -4966500766554247953
+    second: EnemigosMario_17
+  - first:
+      213: 8764814839725057673
+    second: EnemigosMario_18
+  - first:
+      213: -2240202075558739080
+    second: EnemigosMario_19
+  - first:
+      213: 4529791747079323723
+    second: EnemigosMario_20
+  - first:
+      213: 7007463372809507452
+    second: EnemigosMario_21
+  - first:
+      213: 2364908592092530104
+    second: EnemigosMario_22
+  - first:
+      213: 1250277114336525245
+    second: EnemigosMario_23
+  - first:
+      213: 6574702923611252666
+    second: EnemigosMario_24
+  - first:
+      213: -5925078307948526973
+    second: EnemigosMario_25
+  - first:
+      213: -1323554471157764615
+    second: EnemigosMario_26
+  - first:
+      213: 5543632106683568019
+    second: EnemigosMario_27
+  - first:
+      213: -3770887950697842140
+    second: EnemigosMario_28
+  - first:
+      213: 8245385166096368972
+    second: EnemigosMario_29
+  - first:
+      213: -5552629404398268884
+    second: EnemigosMario_30
+  - first:
+      213: 82682720881685136
+    second: EnemigosMario_31
+  - first:
+      213: -927956559787767280
+    second: EnemigosMario_32
+  - first:
+      213: 5894678195562579837
+    second: EnemigosMario_33
+  - first:
+      213: 7376096634943396723
+    second: EnemigosMario_34
+  - first:
+      213: 3980898678083817083
+    second: EnemigosMario_35
+  - first:
+      213: 3878427621213456077
+    second: EnemigosMario_36
+  - first:
+      213: 8287611405333860956
+    second: EnemigosMario_37
+  - first:
+      213: -3301075918322502666
+    second: EnemigosMario_38
+  - first:
+      213: 1474398386890893030
+    second: EnemigosMario_39
+  - first:
+      213: 951538875985204608
+    second: EnemigosMario_40
+  - first:
+      213: -8771617566386779279
+    second: EnemigosMario_41
+  - first:
+      213: 432741058376386625
+    second: EnemigosMario_42
+  - first:
+      213: -6174461067603538616
+    second: EnemigosMario_43
+  - first:
+      213: 8229284275493688367
+    second: EnemigosMario_44
+  - first:
+      213: 7097527191525920400
+    second: EnemigosMario_45
+  - first:
+      213: 7226590485646286129
+    second: EnemigosMario_46
+  - first:
+      213: -6382172220748240176
+    second: EnemigosMario_47
+  - first:
+      213: -7054230981829692950
+    second: EnemigosMario_48
+  - first:
+      213: -2683741952797964370
+    second: EnemigosMario_49
+  - first:
+      213: -2325460833607160274
+    second: EnemigosMario_50
+  - first:
+      213: -8664425913093792822
+    second: EnemigosMario_51
+  - first:
+      213: -74490893699039786
+    second: EnemigosMario_52
+  - first:
+      213: -317880165350772336
+    second: EnemigosMario_53
+  - first:
+      213: 4422337537923231957
+    second: EnemigosMario_54
+  - first:
+      213: 3909197541332134166
+    second: EnemigosMario_55
+  - first:
+      213: 5773244398798060455
+    second: EnemigosMario_56
+  - first:
+      213: 1723784727516306492
+    second: EnemigosMario_57
+  - first:
+      213: -2097067792427068287
+    second: EnemigosMario_58
+  - first:
+      213: -3513724746136531154
+    second: EnemigosMario_59
+  - first:
+      213: 6837594280867870989
+    second: EnemigosMario_60
+  - first:
+      213: -3296588893661558078
+    second: EnemigosMario_61
+  - first:
+      213: -4424720013604135891
+    second: EnemigosMario_62
+  - first:
+      213: -6958892169669128413
+    second: EnemigosMario_63
+  - first:
+      213: -4373001475445579801
+    second: EnemigosMario_64
+  - first:
+      213: -4125464434061881053
+    second: EnemigosMario_65
+  - first:
+      213: 6435554572594143458
+    second: EnemigosMario_66
+  - first:
+      213: 4158147812553407319
+    second: EnemigosMario_67
+  - first:
+      213: 8404800721401499502
+    second: EnemigosMario_68
+  - first:
+      213: -7496971625577267990
+    second: EnemigosMario_69
+  - first:
+      213: -7472134785920156860
+    second: EnemigosMario_70
+  - first:
+      213: -8097721407255343331
+    second: EnemigosMario_71
+  - first:
+      213: 3499170764184113710
+    second: EnemigosMario_72
+  - first:
+      213: 6072556709065401159
+    second: EnemigosMario_73
+  - first:
+      213: -9162679129157940568
+    second: EnemigosMario_74
+  - first:
+      213: 6732652440795643909
+    second: EnemigosMario_75
+  - first:
+      213: -7304952499214871417
+    second: EnemigosMario_76
+  - first:
+      213: -8889995264721343139
+    second: EnemigosMario_77
+  - first:
+      213: -5327156815712603283
+    second: EnemigosMario_78
+  - first:
+      213: 1866454599128264186
+    second: EnemigosMario_79
+  - first:
+      213: 1862043127792640540
+    second: EnemigosMario_80
+  - first:
+      213: -412939900789685528
+    second: EnemigosMario_81
+  - first:
+      213: 2690795090825641354
+    second: EnemigosMario_82
+  - first:
+      213: 3767609679123277734
+    second: EnemigosMario_83
+  - first:
+      213: 1586863610050181276
+    second: EnemigosMario_84
+  - first:
+      213: 7097318769270820740
+    second: EnemigosMario_85
+  - first:
+      213: -5883130605114741280
+    second: EnemigosMario_86
+  - first:
+      213: -961457191424516405
+    second: EnemigosMario_87
+  - first:
+      213: -611302447548943584
+    second: EnemigosMario_88
+  - first:
+      213: -3845476448673048996
+    second: EnemigosMario_89
+  - first:
+      213: 7688952566291927050
+    second: EnemigosMario_90
+  - first:
+      213: 2549959294821455453
+    second: EnemigosMario_91
+  - first:
+      213: 6731932675709622636
+    second: EnemigosMario_92
+  - first:
+      213: 1895420276381611135
+    second: EnemigosMario_93
+  - first:
+      213: -2174312124592893771
+    second: EnemigosMario_94
+  - first:
+      213: -953093505723908641
+    second: EnemigosMario_95
+  - first:
+      213: -7953400271860347417
+    second: EnemigosMario_96
+  - first:
+      213: -994686482435312404
+    second: EnemigosMario_97
+  - first:
+      213: -5426027327322365393
+    second: EnemigosMario_98
+  - first:
+      213: 4445333539065273838
+    second: EnemigosMario_99
+  - first:
+      213: -798963656658288164
+    second: EnemigosMario_100
+  - first:
+      213: 8161984813935474518
+    second: EnemigosMario_101
+  - first:
+      213: -480839016549282160
+    second: EnemigosMario_102
+  - first:
+      213: 654282368727467874
+    second: EnemigosMario_103
+  - first:
+      213: 1647676062073714039
+    second: EnemigosMario_104
+  - first:
+      213: 6344410331751106809
+    second: EnemigosMario_105
+  - first:
+      213: 1475766527459236740
+    second: EnemigosMario_106
+  - first:
+      213: -2879602140126242743
+    second: EnemigosMario_107
+  - first:
+      213: -3282252664669681999
+    second: EnemigosMario_108
+  - first:
+      213: -7242933383862480025
+    second: EnemigosMario_109
+  - first:
+      213: 3350028538459287799
+    second: EnemigosMario_110
+  - first:
+      213: 3870423077745039037
+    second: EnemigosMario_111
+  - first:
+      213: -5115286860123119694
+    second: EnemigosMario_112
+  - first:
+      213: 5819395019223917017
+    second: EnemigosMario_113
+  - first:
+      213: -7703586797581116395
+    second: EnemigosMario_114
+  - first:
+      213: 8879181525966258239
+    second: EnemigosMario_115
+  - first:
+      213: 121737415765749771
+    second: EnemigosMario_116
+  - first:
+      213: -8443997524073470817
+    second: EnemigosMario_117
+  - first:
+      213: -1821791346713784329
+    second: EnemigosMario_118
+  - first:
+      213: -8443232338782198706
+    second: EnemigosMario_119
+  - first:
+      213: 5132211120259092292
+    second: EnemigosMario_120
+  - first:
+      213: 5403040004477555081
+    second: EnemigosMario_121
+  - first:
+      213: -4850952380852072300
+    second: EnemigosMario_122
+  - first:
+      213: -7832365557064376614
+    second: EnemigosMario_123
+  - first:
+      213: -3145789729726612964
+    second: EnemigosMario_124
+  - first:
+      213: -1669162014639332867
+    second: EnemigosMario_125
+  - first:
+      213: 8942030028671485420
+    second: EnemigosMario_126
+  - first:
+      213: -3301282496547654688
+    second: EnemigosMario_127
+  - first:
+      213: -1980360516822298951
+    second: EnemigosMario_128
+  - first:
+      213: 4617252356478204690
+    second: EnemigosMario_129
+  - first:
+      213: 183290190783298549
+    second: EnemigosMario_130
+  - first:
+      213: 5904168076394172404
+    second: EnemigosMario_131
+  - first:
+      213: -2212355627315940024
+    second: EnemigosMario_132
+  - first:
+      213: 4044039389929132391
+    second: EnemigosMario_133
+  - first:
+      213: 821852276535452095
+    second: EnemigosMario_134
+  - first:
+      213: 1548393909726406738
+    second: EnemigosMario_135
+  - first:
+      213: 7382991119088483581
+    second: EnemigosMario_136
+  - first:
+      213: -5433290560742269843
+    second: EnemigosMario_137
+  - first:
+      213: -7832603787505035580
+    second: EnemigosMario_138
+  - first:
+      213: -8522643118412624450
+    second: EnemigosMario_139
+  - first:
+      213: -5055785513791934413
+    second: EnemigosMario_140
+  - first:
+      213: -1212331988904849621
+    second: EnemigosMario_141
+  - first:
+      213: 8997079390051137332
+    second: EnemigosMario_142
+  - first:
+      213: -3612883708074294422
+    second: EnemigosMario_143
+  - first:
+      213: -2887201846291540557
+    second: EnemigosMario_144
+  - first:
+      213: -6693021725550291036
+    second: EnemigosMario_145
+  - first:
+      213: -619693237729389496
+    second: EnemigosMario_146
+  - first:
+      213: -6960112382828584525
+    second: EnemigosMario_147
+  - first:
+      213: -9051138331824324173
+    second: EnemigosMario_148
+  - first:
+      213: 8580653354571326426
+    second: EnemigosMario_149
+  - first:
+      213: 5949718006520182057
+    second: EnemigosMario_150
+  - first:
+      213: 9027695608012341801
+    second: EnemigosMario_151
+  - first:
+      213: -6895811137191846549
+    second: EnemigosMario_152
+  - first:
+      213: 8614215342025494087
+    second: EnemigosMario_153
+  - first:
+      213: 348537983383969388
+    second: EnemigosMario_154
+  - first:
+      213: 2276218188436170309
+    second: EnemigosMario_155
+  - first:
+      213: -8922542674338417464
+    second: EnemigosMario_156
+  - first:
+      213: 3134853729584959027
+    second: EnemigosMario_157
+  - first:
+      213: -4117351848279906473
+    second: EnemigosMario_158
+  - first:
+      213: -2478368804612851682
+    second: EnemigosMario_159
+  - first:
+      213: 8758579355323514400
+    second: EnemigosMario_160
+  - first:
+      213: 4064279513656475810
+    second: EnemigosMario_161
+  - first:
+      213: -8347435180882082404
+    second: EnemigosMario_162
+  - first:
+      213: 449861990051559130
+    second: EnemigosMario_163
+  - first:
+      213: 5399527325254726482
+    second: EnemigosMario_164
+  - first:
+      213: 8395068957531616465
+    second: EnemigosMario_165
+  - first:
+      213: 5600197858060931427
+    second: EnemigosMario_166
+  - first:
+      213: -8111746321648349383
+    second: EnemigosMario_167
+  - first:
+      213: -1811951583675686095
+    second: EnemigosMario_168
+  - first:
+      213: 7012243532716453368
+    second: EnemigosMario_169
+  - first:
+      213: -7928182669357351404
+    second: EnemigosMario_170
+  - first:
+      213: -7597127009851460091
+    second: EnemigosMario_171
+  - first:
+      213: 4325843477703145862
+    second: EnemigosMario_172
+  - first:
+      213: 8608617707875001108
+    second: EnemigosMario_173
+  - first:
+      213: -62808691605014162
+    second: EnemigosMario_174
+  - first:
+      213: 7465596399094789978
+    second: EnemigosMario_175
+  - first:
+      213: -3242060408781241500
+    second: EnemigosMario_176
+  - first:
+      213: -5514985077234812601
+    second: EnemigosMario_177
+  - first:
+      213: 5904000816259907945
+    second: EnemigosMario_178
+  - first:
+      213: 2217322551717747886
+    second: EnemigosMario_179
+  - first:
+      213: -7534970777049602707
+    second: EnemigosMario_180
+  - first:
+      213: -508081944353162103
+    second: EnemigosMario_181
+  - first:
+      213: -7752420680922974066
+    second: EnemigosMario_182
+  - first:
+      213: 1125561481619383609
+    second: EnemigosMario_183
+  - first:
+      213: -7386205207602992487
+    second: EnemigosMario_184
+  - first:
+      213: 5202672027910106903
+    second: EnemigosMario_185
+  - first:
+      213: -2720448184435667878
+    second: EnemigosMario_186
+  - first:
+      213: 7701305938239675408
+    second: EnemigosMario_187
+  - first:
+      213: 2200775409481586478
+    second: EnemigosMario_188
+  - first:
+      213: -2002891876186186987
+    second: EnemigosMario_189
+  - first:
+      213: -8752118782409372957
+    second: EnemigosMario_190
+  - first:
+      213: 10237163166111964
+    second: EnemigosMario_191
+  - first:
+      213: -5106880982843298494
+    second: EnemigosMario_192
+  - first:
+      213: 8300014864949435202
+    second: EnemigosMario_193
+  - first:
+      213: -6674002862336554443
+    second: EnemigosMario_194
+  - first:
+      213: 8620464418513949081
+    second: EnemigosMario_195
+  - first:
+      213: 4541017226740516443
+    second: EnemigosMario_196
+  - first:
+      213: 189609678470547803
+    second: EnemigosMario_197
+  - first:
+      213: 6597253461132766200
+    second: EnemigosMario_198
+  - first:
+      213: 2454911079479123139
+    second: EnemigosMario_199
+  - first:
+      213: -1662111777101626704
+    second: EnemigosMario_200
+  - first:
+      213: 4142758744578197228
+    second: EnemigosMario_201
+  - first:
+      213: -2068104824637508538
+    second: EnemigosMario_202
+  - first:
+      213: -8371500829902919767
+    second: EnemigosMario_203
+  - first:
+      213: -1094218033549048692
+    second: EnemigosMario_204
+  - first:
+      213: -6143935265417180392
+    second: EnemigosMario_205
+  - first:
+      213: -3161975414182308672
+    second: EnemigosMario_206
+  - first:
+      213: -164456003489220267
+    second: EnemigosMario_207
+  - first:
+      213: 5874459870276634649
+    second: EnemigosMario_208
+  - first:
+      213: 5283190924698745885
+    second: EnemigosMario_209
+  - first:
+      213: 2878871553725027619
+    second: EnemigosMario_210
+  - first:
+      213: 8317788145294291997
+    second: EnemigosMario_211
+  - first:
+      213: -6279688514401960234
+    second: EnemigosMario_212
+  - first:
+      213: 2546685857316117744
+    second: EnemigosMario_213
+  - first:
+      213: 1552040499247330745
+    second: EnemigosMario_214
+  - first:
+      213: -6586809064204601842
+    second: EnemigosMario_215
+  - first:
+      213: 4747087488064654869
+    second: EnemigosMario_216
+  - first:
+      213: 562111495015377100
+    second: EnemigosMario_217
+  - first:
+      213: 5934494265520137034
+    second: EnemigosMario_218
+  - first:
+      213: -3932336394626061046
+    second: EnemigosMario_219
+  - first:
+      213: 4046005049123591056
+    second: EnemigosMario_220
+  - first:
+      213: -194846172357644423
+    second: EnemigosMario_221
+  - first:
+      213: 1713083594796151864
+    second: EnemigosMario_222
+  - first:
+      213: 3508194345402318
+    second: EnemigosMario_223
+  - first:
+      213: -2460030596415316087
+    second: EnemigosMario_224
+  - first:
+      213: 22026616975362115
+    second: EnemigosMario_225
+  - first:
+      213: -7026316127360319256
+    second: EnemigosMario_226
+  - first:
+      213: -190970066739133552
+    second: EnemigosMario_227
+  - first:
+      213: -4096091479018693256
+    second: EnemigosMario_228
+  - first:
+      213: 1503304305185827728
+    second: EnemigosMario_229
+  - first:
+      213: -6900085839621992740
+    second: EnemigosMario_230
+  - first:
+      213: -4979091741865298358
+    second: EnemigosMario_231
+  - first:
+      213: -3429583475771682892
+    second: EnemigosMario_232
+  - first:
+      213: 7343642179042133183
+    second: EnemigosMario_233
+  - first:
+      213: -8127932332241987528
+    second: EnemigosMario_234
+  - first:
+      213: -7367424138027407008
+    second: EnemigosMario_235
+  - first:
+      213: 7516374969309348562
+    second: EnemigosMario_236
+  - first:
+      213: -5467373375117248471
+    second: EnemigosMario_237
+  - first:
+      213: -6217387123278173489
+    second: EnemigosMario_238
+  - first:
+      213: -3670493404184331687
+    second: EnemigosMario_239
+  - first:
+      213: -7558860760140322825
+    second: EnemigosMario_240
+  - first:
+      213: 2492606233592006560
+    second: EnemigosMario_241
+  - first:
+      213: 5791042292487066843
+    second: EnemigosMario_242
+  - first:
+      213: -8669990642584377172
+    second: EnemigosMario_243
+  - first:
+      213: 6575294671269481344
+    second: EnemigosMario_244
+  - first:
+      213: 3443615226280795124
+    second: EnemigosMario_245
+  - first:
+      213: 3619040861247315635
+    second: EnemigosMario_246
+  - first:
+      213: 7285270894615855218
+    second: EnemigosMario_247
+  - first:
+      213: 7247365627577730179
+    second: EnemigosMario_248
+  - first:
+      213: 5097020321710076508
+    second: EnemigosMario_249
+  - first:
+      213: 7516295901954997091
+    second: EnemigosMario_250
+  - first:
+      213: 5217876338674665765
+    second: EnemigosMario_251
+  - first:
+      213: -7324126320338413115
+    second: EnemigosMario_252
+  - first:
+      213: 5942687451690719945
+    second: EnemigosMario_253
+  - first:
+      213: -628930920558870807
+    second: EnemigosMario_254
+  - first:
+      213: -4270379916705638792
+    second: EnemigosMario_255
+  - first:
+      213: -1674852443602973913
+    second: EnemigosMario_256
+  - first:
+      213: 3762230260703980851
+    second: EnemigosMario_257
+  - first:
+      213: -6290189901095162160
+    second: EnemigosMario_258
+  - first:
+      213: -3753912934409537821
+    second: EnemigosMario_259
+  - first:
+      213: 8300002822006396639
+    second: EnemigosMario_260
+  - first:
+      213: -8442354009295258290
+    second: EnemigosMario_261
+  - first:
+      213: -2205486167925168028
+    second: EnemigosMario_262
+  - first:
+      213: 4050124990650289038
+    second: EnemigosMario_263
+  - first:
+      213: 807015229900410169
+    second: EnemigosMario_264
+  - first:
+      213: 3628372525970726806
+    second: EnemigosMario_265
+  - first:
+      213: 4430964688227042060
+    second: EnemigosMario_266
+  - first:
+      213: 8116751781103056613
+    second: EnemigosMario_267
+  - first:
+      213: -7190785595512593361
+    second: EnemigosMario_268
+  - first:
+      213: -403707005205116072
+    second: EnemigosMario_269
+  - first:
+      213: -2487078827836050274
+    second: EnemigosMario_270
+  - first:
+      213: -596444400750756688
+    second: EnemigosMario_271
+  - first:
+      213: -132755024203543566
+    second: EnemigosMario_272
+  - first:
+      213: 3257892357178823453
+    second: EnemigosMario_273
+  - first:
+      213: 4515666611635943509
+    second: EnemigosMario_274
+  - first:
+      213: -1857282308820637669
+    second: EnemigosMario_275
+  - first:
+      213: -6921721020299791385
+    second: EnemigosMario_276
+  - first:
+      213: -7313352309258642176
+    second: EnemigosMario_277
+  - first:
+      213: -5017374425666145496
+    second: EnemigosMario_278
+  - first:
+      213: 8563591274833850332
+    second: EnemigosMario_279
+  - first:
+      213: -6085951421513811366
+    second: EnemigosMario_280
+  - first:
+      213: 5805997591641817189
+    second: EnemigosMario_281
+  - first:
+      213: -4663516845680595350
+    second: EnemigosMario_282
+  - first:
+      213: 4940120084587108544
+    second: EnemigosMario_283
+  - first:
+      213: 33514087331434770
+    second: EnemigosMario_284
+  - first:
+      213: -4421206576065397732
+    second: EnemigosMario_285
+  - first:
+      213: -7291197894329096483
+    second: EnemigosMario_286
+  - first:
+      213: 1093304163354966035
+    second: EnemigosMario_287
+  - first:
+      213: -8815552609744800034
+    second: EnemigosMario_288
+  - first:
+      213: 4458927807784523749
+    second: EnemigosMario_289
+  - first:
+      213: 5659664452746688048
+    second: EnemigosMario_290
+  - first:
+      213: 512134728967175792
+    second: EnemigosMario_291
+  - first:
+      213: 8830633262071821994
+    second: EnemigosMario_292
+  - first:
+      213: -4908304069248826524
+    second: EnemigosMario_293
+  - first:
+      213: 6335608934885209980
+    second: EnemigosMario_294
+  - first:
+      213: -2437705193760854529
+    second: EnemigosMario_295
+  - first:
+      213: 5348423350429757166
+    second: EnemigosMario_296
+  - first:
+      213: 6286015874278289979
+    second: EnemigosMario_297
+  - first:
+      213: -561182671008755625
+    second: EnemigosMario_298
+  - first:
+      213: 2278553373189096929
+    second: EnemigosMario_299
+  - first:
+      213: 132089505107451082
+    second: EnemigosMario_300
+  - first:
+      213: -2222126354939319847
+    second: EnemigosMario_301
+  - first:
+      213: -1853588585848326309
+    second: EnemigosMario_302
+  - first:
+      213: 3004094163409681057
+    second: EnemigosMario_303
+  - first:
+      213: -6202095370548798826
+    second: EnemigosMario_304
+  - first:
+      213: 8861448846404333817
+    second: EnemigosMario_305
+  - first:
+      213: 2248233316804531504
+    second: EnemigosMario_306
+  - first:
+      213: -2927332116907309036
+    second: EnemigosMario_307
+  - first:
+      213: -3005161684655420732
+    second: EnemigosMario_308
+  - first:
+      213: -1476778329756754059
+    second: EnemigosMario_309
+  - first:
+      213: 3736746310438336070
+    second: EnemigosMario_310
+  - first:
+      213: -2209506305419409966
+    second: EnemigosMario_311
+  - first:
+      213: -7699524183201065251
+    second: EnemigosMario_312
+  - first:
+      213: 3207876832474989834
+    second: EnemigosMario_313
+  - first:
+      213: 313680887352875176
+    second: EnemigosMario_314
+  - first:
+      213: 3605791783741062043
+    second: EnemigosMario_315
+  - first:
+      213: -4312416667235035760
+    second: EnemigosMario_316
+  - first:
+      213: 7545692375901806772
+    second: EnemigosMario_317
+  - first:
+      213: 9075672451555543423
+    second: EnemigosMario_318
+  - first:
+      213: -4818337942719831108
+    second: EnemigosMario_319
+  - first:
+      213: 8828774858159466650
+    second: EnemigosMario_320
+  - first:
+      213: 481394617055663595
+    second: EnemigosMario_321
+  - first:
+      213: -1544529864030220152
+    second: EnemigosMario_322
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemigosMario_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 639
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb6bb68d0cff8ed0800000000000000
+      internalID: -2409430140594721867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 607
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f180419aaf11870800000000000000
+      internalID: 8651971963247927071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 607
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3336c42b5a75da390800000000000000
+      internalID: -7805486209990630605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 607
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dcf52245f6bcfb0800000000000000
+      internalID: -4626481785048412788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 607
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1aa691a8c9054a0800000000000000
+      internalID: -6606608536406679111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 607
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f307249df55caeba0800000000000000
+      internalID: -6058813333216006081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 607
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab0a32a41e3e3d50800000000000000
+      internalID: 6718875952425339809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 607
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ff492a016218de0800000000000000
+      internalID: -1332742161835950196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 607
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071bf2c8dc83b4d90800000000000000
+      internalID: -7112528731030179472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 607
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8845b206ae9a7b60800000000000000
+      internalID: 7744676945064183950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_10
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 639
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ba6ab349bca3240800000000000000
+      internalID: 4772350592668838797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 607
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d648a393674c9090800000000000000
+      internalID: -8026461942876453160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 607
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28562aa35ed3f8f0800000000000000
+      internalID: -507817882044442582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 607
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b3985f3f46a6690800000000000000
+      internalID: -7608157621529789618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 607
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f22fcbd7b39b390800000000000000
+      internalID: -7802139468215734458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_15
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 607
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adb42b25f9e22ac0800000000000000
+      internalID: -3881282689639858782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 607
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d413d756e4894e0800000000000000
+      internalID: -1974742238802915982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_17
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 623
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec24d0ddd1731bb0800000000000000
+      internalID: -4966500766554247953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 635
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98662e3a8a0e2a970800000000000000
+      internalID: 8764814839725057673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_19
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 591
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8738a35d41439e0e0800000000000000
+      internalID: -2240202075558739080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 591
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40c827189d0dde30800000000000000
+      internalID: 4529791747079323723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_21
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 607
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c721fd87fc28f3160800000000000000
+      internalID: 7007463372809507452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 607
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5c1fda5d7d1d020800000000000000
+      internalID: 2364908592092530104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_23
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 576
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb34d64960e95110800000000000000
+      internalID: 1250277114336525245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_24
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 577
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7229989790e3b50800000000000000
+      internalID: 6574702923611252666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3820b5cdba4e5cda0800000000000000
+      internalID: -5925078307948526973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_26
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fde2c1983ac1ade0800000000000000
+      internalID: -1323554471157764615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 577
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f03549700feec40800000000000000
+      internalID: 5543632106683568019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 576
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42abada436d1babc0800000000000000
+      internalID: -3770887950697842140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_29
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 577
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4503756f1e7d6270800000000000000
+      internalID: 8245385166096368972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ec37dc9f811f2b0800000000000000
+      internalID: -5552629404398268884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092373f1f7fb52100800000000000000
+      internalID: 82682720881685136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 577
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a4bd6ec6c3f13f0800000000000000
+      internalID: -927956559787767280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_33
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 576
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d778fb7669a1ec150800000000000000
+      internalID: 5894678195562579837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_34
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 577
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b51ca2fc82d5660800000000000000
+      internalID: 7376096634943396723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_35
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e020a814efe3730800000000000000
+      internalID: 3980898678083817083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6cd796f51f2d530800000000000000
+      internalID: 3878427621213456077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_37
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52966bd9a2830370800000000000000
+      internalID: 8287611405333860956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f37acf21f83032d0800000000000000
+      internalID: -3301075918322502666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_39
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 577
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e66a0c658d167410800000000000000
+      internalID: 1474398386890893030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_40
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0859215f09b843d00800000000000000
+      internalID: 951538875985204608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_41
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 577
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b80f12c44f44680800000000000000
+      internalID: -8771617566386779279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_42
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148404823b7610600800000000000000
+      internalID: 432741058376386625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_43
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d030a6f58ef4aa0800000000000000
+      internalID: -6174461067603538616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_44
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24528ca27a443270800000000000000
+      internalID: 8229284275493688367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_45
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 577
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e049a506b7f7260800000000000000
+      internalID: 7097527191525920400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_46
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 559
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d1a2232c10a4460800000000000000
+      internalID: 7226590485646286129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 560
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da6feeed28fd67a0800000000000000
+      internalID: -6382172220748240176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_48
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 560
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae17c740c465a1e90800000000000000
+      internalID: -7054230981829692950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_49
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 560
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea70aaab9ee61cad0800000000000000
+      internalID: -2683741952797964370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 560
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ee2c151bd4abfd0800000000000000
+      internalID: -2325460833607160274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_51
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 560
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbda53c986c1c780800000000000000
+      internalID: -8664425913093792822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_52
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 560
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd31164dea57fef0800000000000000
+      internalID: -74490893699039786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_53
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 560
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091ff1f7ca9a69bf0800000000000000
+      internalID: -317880165350772336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_54
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 560
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d03ac86f8c4f5d30800000000000000
+      internalID: 4422337537923231957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_55
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 560
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619aee7b372404630800000000000000
+      internalID: 3909197541332134166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_56
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 560
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab3fd7513fae1050800000000000000
+      internalID: 5773244398798060455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_57
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 560
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c5ad0a31d1ce710800000000000000
+      internalID: 1723784727516306492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_58
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 560
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184d87a14f7b5e2e0800000000000000
+      internalID: -2097067792427068287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_59
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 544
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f480cb5fdbc3fc0800000000000000
+      internalID: -3513724746136531154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_60
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 544
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d093f5575c304ee50800000000000000
+      internalID: 6837594280867870989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_61
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 544
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca0ec60ed92042d0800000000000000
+      internalID: -3296588893661558078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 544
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c509e379c3892c0800000000000000
+      internalID: -4424720013604135891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_63
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 544
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fcf94017c0d6f90800000000000000
+      internalID: -6958892169669128413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_64
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 544
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef9ec5c35aff43c0800000000000000
+      internalID: -4373001475445579801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_65
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 544
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321db3274f76fb6c0800000000000000
+      internalID: -4125464434061881053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_66
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 544
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e06d1869ceaf4950800000000000000
+      internalID: 6435554572594143458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_67
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 544
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b30da9765b4b930800000000000000
+      internalID: 4158147812553407319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_68
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 544
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f451fb9b9d3a470800000000000000
+      internalID: 8404800721401499502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_69
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 544
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecb846f60865f790800000000000000
+      internalID: -7496971625577267990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_70
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 544
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bb3635005ad4890800000000000000
+      internalID: -7472134785920156860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_71
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 515
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f087e984d1f9f80800000000000000
+      internalID: -8097721407255343331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_72
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 529
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2250a7454d8f8030800000000000000
+      internalID: 3499170764184113710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_73
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 529
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7432242372e064450800000000000000
+      internalID: 6072556709065401159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_74
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 529
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aac7a3c0ef97d080800000000000000
+      internalID: -9162679129157940568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_75
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 529
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5008ac949bf2f6d50800000000000000
+      internalID: 6732652440795643909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_76
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 529
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784123fb7689f9a90800000000000000
+      internalID: -7304952499214871417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_77
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 529
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d216f686460a480800000000000000
+      internalID: -8889995264721343139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_78
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 524
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6336a0c9132216b0800000000000000
+      internalID: -5327156815712603283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_79
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 524
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd2f6aa19af6e910800000000000000
+      internalID: 1866454599128264186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_80
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12a984fb5e47d910800000000000000
+      internalID: 1862043127792640540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_81
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e288db1951f44af0800000000000000
+      internalID: -412939900789685528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_82
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8df600f0ef975520800000000000000
+      internalID: 2690795090825641354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_83
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a76770aa0d394430800000000000000
+      internalID: 3767609679123277734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_84
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98f808bb0ca50610800000000000000
+      internalID: 1586863610050181276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_85
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f891441ddbe7260800000000000000
+      internalID: 7097318769270820740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_86
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed28e282ebea5ea0800000000000000
+      internalID: -5883130605114741280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_87
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 515
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce956647c738a2f0800000000000000
+      internalID: -961457191424516405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_88
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023b48ba9a73487f0800000000000000
+      internalID: -611302447548943584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_89
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5656bc4b8f12aac0800000000000000
+      internalID: -3845476448673048996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_90
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0098a80f95a4ba60800000000000000
+      internalID: 7688952566291927050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_91
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56d987e776436320800000000000000
+      internalID: 2549959294821455453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_92
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69548be911ac6d50800000000000000
+      internalID: 6731932675709622636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_93
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f747cc1f2b2ed4a10800000000000000
+      internalID: 1895420276381611135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_94
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0d0d684aa43d1e0800000000000000
+      internalID: -2174312124592893771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_95
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd3899918ee5c2f0800000000000000
+      internalID: -953093505723908641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_96
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edc4477798df9190800000000000000
+      internalID: -7953400271860347417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_97
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce47f8f0ae92232f0800000000000000
+      internalID: -994686482435312404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_98
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f226365e4e0e2b4b0800000000000000
+      internalID: -5426027327322365393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_99
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed9d182d4ff0bd30800000000000000
+      internalID: 4445333539065273838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_100
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd18f6099c289e4f0800000000000000
+      internalID: -798963656658288164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_101
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657b1c8b1f1354170800000000000000
+      internalID: 8161984813935474518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_102
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 492
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e8e684677b359f0800000000000000
+      internalID: -480839016549282160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_103
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 492
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2674dca095a741900800000000000000
+      internalID: 654282368727467874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_104
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 492
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77571d016a8bdd610800000000000000
+      internalID: 1647676062073714039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_105
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 492
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8c755259fdb0850800000000000000
+      internalID: 6344410331751106809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_106
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 492
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b9e9876d9fa7410800000000000000
+      internalID: 1475766527459236740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_107
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948125f3c199908d0800000000000000
+      internalID: -2879602140126242743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_108
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 442
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6c84377981372d0800000000000000
+      internalID: -3282252664669681999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_109
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 492
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7631f0b467eeb7b90800000000000000
+      internalID: -7242933383862480025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_110
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0794ed431bd7e20800000000000000
+      internalID: 3350028538459287799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_111
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 492
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db69777684186b530800000000000000
+      internalID: 3870423077745039037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_112
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf5322e3b9d209b0800000000000000
+      internalID: -5115286860123119694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_113
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 491
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1e48000f4a2c050800000000000000
+      internalID: 5819395019223917017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_114
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cd9c97f9c571590800000000000000
+      internalID: -7703586797581116395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_115
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f300e6fcd80393b70800000000000000
+      internalID: 8879181525966258239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_116
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00779ed88f70b100800000000000000
+      internalID: 121737415765749771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_117
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94a2557df4e0da80800000000000000
+      internalID: -8443997524073470817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff8e342c62b7b6e0800000000000000
+      internalID: -1821791346713784329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_119
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 492
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44ebca0cec93da80800000000000000
+      internalID: -8443232338782198706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_120
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f4a5f72d6493740800000000000000
+      internalID: 5132211120259092292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_121
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 492
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9811c1ee1447bfa40800000000000000
+      internalID: 5403040004477555081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_122
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 492
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4901af4d284fdacb0800000000000000
+      internalID: -4850952380852072300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_123
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 465
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade5c240609dd4390800000000000000
+      internalID: -7832365557064376614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_124
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 465
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ab29d68e8e754d0800000000000000
+      internalID: -3145789729726612964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_125
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 465
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1e8d4cdf1f5d8e0800000000000000
+      internalID: -1669162014639332867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_126
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 465
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce507d52fe8781c70800000000000000
+      internalID: 8942030028671485420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_127
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 466
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3ff027f0d7f22d0800000000000000
+      internalID: -3301282496547654688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_128
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 466
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be09933a985484e0800000000000000
+      internalID: -1980360516822298951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_129
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 466
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bf7321e86c31040800000000000000
+      internalID: 4617252356478204690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_130
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 466
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbb378157d2b8200800000000000000
+      internalID: 183290190783298549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_131
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 442
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff0da77591dfe150800000000000000
+      internalID: 5904168076394172404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_132
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 442
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8453ffc47422c41e0800000000000000
+      internalID: -2212355627315940024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_133
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 442
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761d96e16605f1830800000000000000
+      internalID: 4044039389929132391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_134
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 442
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1edb88a4ec76b00800000000000000
+      internalID: 821852276535452095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_135
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 442
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258ee91ae000d7510800000000000000
+      internalID: 1548393909726406738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_136
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 442
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcf1295e47a57660800000000000000
+      internalID: 7382991119088483581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_137
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 442
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c597595031994b0800000000000000
+      internalID: -5433290560742269843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_138
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 442
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6126baa500d4390800000000000000
+      internalID: -7832603787505035580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_139
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 397
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd869b1d3d79b980800000000000000
+      internalID: -8522643118412624450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_140
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 414
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330bdd5acdd36d9b0800000000000000
+      internalID: -5055785513791934413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_141
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 418
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fcb73ba7eec2fe0800000000000000
+      internalID: -1212331988904849621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_142
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 418
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4377cf3690c0cdc70800000000000000
+      internalID: 8997079390051137332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_143
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 414
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a638f6dc8657cddc0800000000000000
+      internalID: -3612883708074294422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_144
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 418
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5d0f4c7399ee7d0800000000000000
+      internalID: -2887201846291540557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_145
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 418
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a75a96a33c9d13a0800000000000000
+      internalID: -6693021725550291036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_146
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 414
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8449d6798486667f0800000000000000
+      internalID: -619693237729389496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_147
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 397
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b164b00aa6b86f90800000000000000
+      internalID: -6960112382828584525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_148
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 399
+        width: 128
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b180b664a5e36280800000000000000
+      internalID: -9051138331824324173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_149
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 365
+        width: 256
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3ecf383ca941770800000000000000
+      internalID: 8580653354571326426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_150
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 391
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92571640105a19250800000000000000
+      internalID: 5949718006520182057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_151
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9220eef1351d84d70800000000000000
+      internalID: 9027695608012341801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_152
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d5f796e482d40a0800000000000000
+      internalID: -6895811137191846549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_153
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e4628a637db8770800000000000000
+      internalID: 8614215342025494087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_154
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 348
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e1552037146d400800000000000000
+      internalID: 348537983383969388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_155
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 348
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5466509e160c69f10800000000000000
+      internalID: 2276218188436170309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_156
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c47bca16b2cc2480800000000000000
+      internalID: -8922542674338417464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_157
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e48be9bdc318b20800000000000000
+      internalID: 3134853729584959027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_158
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7576af30f4a3cd6c0800000000000000
+      internalID: -4117351848279906473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_159
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1834a204b01b9dd0800000000000000
+      internalID: -2478368804612851682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_160
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02eb02bc489bc8970800000000000000
+      internalID: 8758579355323514400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_161
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a044672fa8376830800000000000000
+      internalID: 4064279513656475810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_162
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 348
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95cce9fde3f72c80800000000000000
+      internalID: -8347435180882082404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_163
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad639f2b81b3e3600800000000000000
+      internalID: 449861990051559130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_164
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 325
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253b2d09e79feea40800000000000000
+      internalID: 5399527325254726482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_165
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 325
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4b496ecb6418470800000000000000
+      internalID: 8395068957531616465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_166
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36110a1e746e7bd40800000000000000
+      internalID: 5600197858060931427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_167
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 325
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f8116c2b94d6f80800000000000000
+      internalID: -8111746321648349383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_168
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 325
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133edc082a7aad6e0800000000000000
+      internalID: -1811951583675686095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_169
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 325
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd281e275e705160800000000000000
+      internalID: 7012243532716453368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_170
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 325
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41efb861edf69f190800000000000000
+      internalID: -7928182669357351404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_171
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 325
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50637406c35919690800000000000000
+      internalID: -7597127009851460091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_172
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 326
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689bf6249bb780c30800000000000000
+      internalID: 4325843477703145862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_173
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 325
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413e605e134f77770800000000000000
+      internalID: 8608617707875001108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_174
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 324
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e697318e3dbd02ff0800000000000000
+      internalID: -62808691605014162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_175
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 323
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57fa7cde502b9760800000000000000
+      internalID: 7465596399094789978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_176
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 324
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4638c324c33e103d0800000000000000
+      internalID: -3242060408781241500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_177
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 324
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749b6d9ba46d673b0800000000000000
+      internalID: -5514985077234812601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_178
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 323
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961c9ce26793fe150800000000000000
+      internalID: 5904000816259907945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_179
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 322
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac5997ec1385ce10800000000000000
+      internalID: 2217322551717747886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_180
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 321
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65620110086e6790800000000000000
+      internalID: -7534970777049602707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_181
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 302
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c3a0ed92ee2f8f0800000000000000
+      internalID: -508081944353162103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_182
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 302
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88b13cf67ed96490800000000000000
+      internalID: -7752420680922974066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_183
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 302
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93529cc343cce9f00800000000000000
+      internalID: 1125561481619383609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_184
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 302
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99aeeaa5f7dee7990800000000000000
+      internalID: -7386205207602992487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_185
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 302
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f617af4aa933840800000000000000
+      internalID: 5202672027910106903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_186
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 302
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c0bd03ac60f3ad0800000000000000
+      internalID: -2720448184435667878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_187
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 302
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cd16392f880ea60800000000000000
+      internalID: 7701305938239675408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_188
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 302
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2790902399ba8e10800000000000000
+      internalID: 2200775409481586478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_189
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 302
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b186c437c4434e0800000000000000
+      internalID: -2002891876186186987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_190
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 303
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea077e865a3a8680800000000000000
+      internalID: -8752118782409372957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_191
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 302
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8160a45ae542000800000000000000
+      internalID: 10237163166111964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_192
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 301
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d6d63bdc6b029b0800000000000000
+      internalID: -5106880982843298494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_193
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 300
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bd5c75b839f2370800000000000000
+      internalID: 8300014864949435202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_194
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 301
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a4d70d1cd2163a0800000000000000
+      internalID: -6674002862336554443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_195
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 301
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9911b6827ba02a770800000000000000
+      internalID: 8620464418513949081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_196
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 300
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b564ccebb1fe40f30800000000000000
+      internalID: 4541017226740516443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_197
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 299
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59863b7ff0a1a200800000000000000
+      internalID: 189609678470547803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_198
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 299
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbe804b1172e8b50800000000000000
+      internalID: 6597253461132766200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_199
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc168fbe98911220800000000000000
+      internalID: 2454911079479123139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_200
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 283
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b24ddc152efee8e0800000000000000
+      internalID: -1662111777101626704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_201
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 283
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce60ab001290e7930800000000000000
+      internalID: 4142758744578197228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_202
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644b5398e9d9c43e0800000000000000
+      internalID: -2068104824637508538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_203
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 283
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7afbc695472db80800000000000000
+      internalID: -8371500829902919767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_204
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 283
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c848b73fe7e80d0f0800000000000000
+      internalID: -1094218033549048692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_205
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 283
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b40d59d6b5cbaa0800000000000000
+      internalID: -6143935265417180392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_206
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 283
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c415291d186e14d0800000000000000
+      internalID: -3161975414182308672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_207
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 283
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55938dad22cb7bdf0800000000000000
+      internalID: -164456003489220267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_208
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 284
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9184027b026468150800000000000000
+      internalID: 5874459870276634649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_209
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 283
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c7c3b872aa15940800000000000000
+      internalID: 5283190924698745885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_210
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 282
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325d1c9dc6ec3f720800000000000000
+      internalID: 2878871553725027619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_211
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 281
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14b835af38be6370800000000000000
+      internalID: 8317788145294291997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_212
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 282
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de78fe31901ad8a0800000000000000
+      internalID: -6279688514401960234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_213
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 282
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc96d75b45a75320800000000000000
+      internalID: 2546685857316117744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_214
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 281
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b538aa6c94f98510800000000000000
+      internalID: 1552040499247330745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_215
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 280
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06f2c4fd04f694a0800000000000000
+      internalID: -6586809064204601842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_216
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 279
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e8bc35bea01e140800000000000000
+      internalID: 4747087488064654869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_217
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc82e803d650dc700800000000000000
+      internalID: 562111495015377100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_218
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 262
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43abe9971f8b5250800000000000000
+      internalID: 5934494265520137034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_219
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d29fc22e88d69c0800000000000000
+      internalID: -3932336394626061046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_220
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093d270d72c462830800000000000000
+      internalID: 4046005049123591056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_221
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f27c64074cb4df0800000000000000
+      internalID: -194846172357644423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_222
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 262
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834bf52047816c710800000000000000
+      internalID: 1713083594796151864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_223
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfb2c52fa67c0000800000000000000
+      internalID: 3508194345402318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_224
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f9214d4373cddd0800000000000000
+      internalID: -2460030596415316087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_225
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3488b6867114e4000800000000000000
+      internalID: 22026616975362115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_226
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0071d85b28d7e90800000000000000
+      internalID: -7026316127360319256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_227
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 262
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09308417cb9895df0800000000000000
+      internalID: -190970066739133552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_228
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 238
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d16997082c727c0800000000000000
+      internalID: -4096091479018693256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_229
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 238
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09baaebfc4fccd410800000000000000
+      internalID: 1503304305185827728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_230
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdec0a1bc78fd30a0800000000000000
+      internalID: -6900085839621992740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_231
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 238
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46b90ee076b6eab0800000000000000
+      internalID: -4979091741865298358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_232
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf441fdffba760d0800000000000000
+      internalID: -3429583475771682892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_233
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 240
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4c16f47abd9e560800000000000000
+      internalID: 7343642179042133183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_234
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 240
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838dd428b98c33f80800000000000000
+      internalID: -8127932332241987528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_235
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 240
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069ec3fd7c6a1c990800000000000000
+      internalID: -7367424138027407008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_236
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 240
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2425c06378f4860800000000000000
+      internalID: 7516374969309348562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_237
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 214
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92835b9f1ecff14b0800000000000000
+      internalID: -5467373375117248471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_238
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 214
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaaaed3a5767b9a0800000000000000
+      internalID: -6217387123278173489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_239
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95abd2d22b9cf0dc0800000000000000
+      internalID: -3670493404184331687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_240
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 214
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7623def28891790800000000000000
+      internalID: -7558860760140322825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_241
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 216
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a70d2eb924879220800000000000000
+      internalID: 2492606233592006560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_242
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 216
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd494f2684aed5050800000000000000
+      internalID: 5791042292487066843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_243
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 216
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca82cc632710ea780800000000000000
+      internalID: -8669990642584377172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_244
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 216
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b49868aa3204b50800000000000000
+      internalID: 6575294671269481344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_245
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 216
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbd791adcd2acf20800000000000000
+      internalID: 3443615226280795124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_246
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 188
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be15422d7a693230800000000000000
+      internalID: 3619040861247315635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_247
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 188
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2700216974b7a1560800000000000000
+      internalID: 7285270894615855218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_248
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384852dd3a0d39460800000000000000
+      internalID: 7247365627577730179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_249
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52f9783af04cb640800000000000000
+      internalID: 5097020321710076508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_250
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 190
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b70cebc4f3f4860800000000000000
+      internalID: 7516295901954997091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_251
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 190
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5298e9072ee996840800000000000000
+      internalID: 5217876338674665765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_252
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 190
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9d322aae97b5a90800000000000000
+      internalID: -7324126320338413115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_253
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 190
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca523960caa87250800000000000000
+      internalID: 5942687451690719945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_254
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 190
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee34d3f8a69547f0800000000000000
+      internalID: -628930920558870807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_255
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8765cc857109cb4c0800000000000000
+      internalID: -4270379916705638792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_256
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b89d7839ab1c8e0800000000000000
+      internalID: -1674852443602973913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_257
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d6c7c2d70263430800000000000000
+      internalID: 3762230260703980851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_258
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de297f9c91c4b8a0800000000000000
+      internalID: -6290189901095162160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_259
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e676c2431c67ebc0800000000000000
+      internalID: -3753912934409537821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_260
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd65e6067988f2370800000000000000
+      internalID: 8300002822006396639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_261
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d7cdf02cbb6da80800000000000000
+      internalID: -8442354009295258290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_262
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46868c3f30a8461e0800000000000000
+      internalID: -2205486167925168028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_263
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b84a3783fe43830800000000000000
+      internalID: 4050124990650289038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_264
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d4b8a6318133b00800000000000000
+      internalID: 807015229900410169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_265
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 152
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f9543a6919a5230800000000000000
+      internalID: 3628372525970726806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_266
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 151
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03821e58e2fd7d30800000000000000
+      internalID: 4430964688227042060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_267
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 151
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6baa29dbe74a070800000000000000
+      internalID: 8116751781103056613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_268
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 152
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24e97b6992353c90800000000000000
+      internalID: -7190785595512593361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_269
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 152
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b89612e9eb56af0800000000000000
+      internalID: -403707005205116072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_270
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 152
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94ff62bbfe1c7dd0800000000000000
+      internalID: -2487078827836050274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_271
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 152
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcfaf44af009b7f0800000000000000
+      internalID: -596444400750756688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_272
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 152
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb0334420c582ef0800000000000000
+      internalID: -132755024203543566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_273
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d139a1a76db563d20800000000000000
+      internalID: 3257892357178823453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_274
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 133
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558f6a6bbdedaae30800000000000000
+      internalID: 4515666611635943509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_275
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 133
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18e027949b9936e0800000000000000
+      internalID: -1857282308820637669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_276
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e33da6a76b11ff90800000000000000
+      internalID: -6921721020299791385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_277
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 133
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d1b5192d0c18a90800000000000000
+      internalID: -7313352309258642176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_278
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8233a050b84be5ab0800000000000000
+      internalID: -5017374425666145496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_279
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf2b1284ecf7d670800000000000000
+      internalID: 8563591274833850332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_280
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ab2684d6b5a8ba0800000000000000
+      internalID: -6085951421513811366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_281
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56085905c0c039050800000000000000
+      internalID: 5805997591641817189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_282
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e6821232cd74fb0800000000000000
+      internalID: -4663516845680595350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_283
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c856950b05de8440800000000000000
+      internalID: 4940120084587108544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_284
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 109
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2119c5682e0177000800000000000000
+      internalID: 33514087331434770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_285
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c300b2b08b4a2c0800000000000000
+      internalID: -4421206576065397732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_286
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 109
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd62071452670da90800000000000000
+      internalID: -7291197894329096483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_287
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 109
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3187a3018523c2f00800000000000000
+      internalID: 1093304163354966035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_288
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 90
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6b465bb9dd8a580800000000000000
+      internalID: -8815552609744800034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_289
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 90
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e79b1e773b41ed30800000000000000
+      internalID: 4458927807784523749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_290
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 90
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0363fd565da2b8e40800000000000000
+      internalID: 5659664452746688048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_291
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 90
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07eba3592d77b1700800000000000000
+      internalID: 512134728967175792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_292
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 90
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa63a874a26bc8a70800000000000000
+      internalID: 8830633262071821994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_293
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 90
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463c1de447332ebb0800000000000000
+      internalID: -4908304069248826524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_294
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 90
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77bf9f32ca9ce750800000000000000
+      internalID: 6335608934885209980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_295
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 90
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd62c2ba088b2ed0800000000000000
+      internalID: -2437705193760854529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_296
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 12
+        width: 186
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee25c633ba693a40800000000000000
+      internalID: 5348423350429757166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_297
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 75
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32f2d6022a6c3750800000000000000
+      internalID: 6286015874278289979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_298
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 49
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7501b6085574638f0800000000000000
+      internalID: -561182671008755625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_299
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 49
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e544ba783c0f9f10800000000000000
+      internalID: 2278553373189096929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_300
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 49
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc9c7e74b645d100800000000000000
+      internalID: 132089505107451082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_301
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 49
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9eecf7adb6921e0800000000000000
+      internalID: -2222126354939319847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_302
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 50
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57bacc700bb646e0800000000000000
+      internalID: -1853588585848326309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_303
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 49
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aabbd9a9bfa0b920800000000000000
+      internalID: 3004094163409681057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_304
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 48
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a185fde1bbde9a0800000000000000
+      internalID: -6202095370548798826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_305
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 49
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0b93d96c03afa70800000000000000
+      internalID: 8861448846404333817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_306
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 48
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035155c3a44533f10800000000000000
+      internalID: 2248233316804531504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_307
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 49
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418c52803f60067d0800000000000000
+      internalID: -2927332116907309036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_308
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 48
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cacf7dae558b46d0800000000000000
+      internalID: -3005161684655420732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_309
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 49
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f9ad2feed618be0800000000000000
+      internalID: -1476778329756754059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_310
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646bd61a8f69bd330800000000000000
+      internalID: 3736746310438336070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_311
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 13
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d58d70c8b14651e0800000000000000
+      internalID: -2209506305419409966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_312
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 12
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd655c89c8bc52590800000000000000
+      internalID: -7699524183201065251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_313
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 12
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0580eaabfaa48c20800000000000000
+      internalID: 3207876832474989834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_314
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 12
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a85f77ea1b6a5400800000000000000
+      internalID: 313680887352875176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_315
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 13
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b78e3e5885a0230800000000000000
+      internalID: 3605791783741062043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_316
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 12
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0955bf9a3e73724c0800000000000000
+      internalID: -4312416667235035760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_317
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 11
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b02002bc3fa7b860800000000000000
+      internalID: 7545692375901806772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_318
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 12
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7944cc720443fd70800000000000000
+      internalID: 9075672451555543423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_319
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 11
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3e5647b23d12db0800000000000000
+      internalID: -4818337942719831108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_320
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 12
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98ae76e4fb168a70800000000000000
+      internalID: 8828774858159466650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_321
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 11
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5536a8ad14ea600800000000000000
+      internalID: 481394617055663595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosMario_322
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 12
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8801f7d954ab09ae0800000000000000
+      internalID: -1544529864030220152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
